@@ -27,7 +27,7 @@ class Lista (object):   #Estos componentes definene a las listas para el inicio 
             self.cabeza = nodo
             print(f"\nSE ALMACENO CON EXITO LOS VALOR ")
 
-    def insertarFinal(self, datos, nombre, apellido): # Corregido para recibir tres argumentos
+    def insertarFinal(self, datos, nombre, apellido): 
         nodo = Nodo(datos, nombre, apellido)
         if self.cola is None:
             self.cabeza = nodo
