@@ -2,6 +2,7 @@
   <caption>List of users</caption>
   <thead>
     <tr>
+      <th scope="col">No.</th>
       <th scope="col">Nombre</th>
       <th scope="col">Carnet</th>
       <th scope="col">Participacion</th>
