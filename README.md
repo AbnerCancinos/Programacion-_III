@@ -1,5 +1,32 @@
-Nombre	Carnet	Participacion
-Cristian Sebastian Rodas	9490-22-523	100%
-Joshua Ivan Andree Mendez Vasquez	9490-22-4032	100%
-Alder Isaac Solis De Leon	9490-22-227	100%
-Abner Salvador Cancinos	9490-22-2101	100%
+<table class="table caption-top">
+  <caption>List of users</caption>
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>
+      <td>Thornton</td>
+      <td>@fat</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Larry</td>
+      <td>the Bird</td>
+      <td>@twitter</td>
+    </tr>
+  </tbody>
+</table>
+
