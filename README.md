@@ -10,15 +10,15 @@
   </thead>
   <tbody>
     <tr>
-      <th scope="col">1</th>
+      <th scope="col-mb">1</th>
       <td>Abner Salvador Cancinos</td>
-      <td>Cristian Sebastian Rodas</td>
+       <td>9490-22-2101</td>
       <td>Alder Isaac Solis De Leon</td>
       <td>Joshua Ivan Andree Mendez Vasquez</td>
     </tr>
     <tr>
       <th scope="col">2</th>
-      <td>9490-22-2101</td>
+      <td>Cristian Sebastian Rodas</td>
       <td>9490-22-523</td>
       <td>9490-22-227</td>
        <td>9490-22-4032</td>
