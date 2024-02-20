@@ -28,7 +28,7 @@
       <td>100%</td>
     </tr>
      <tr>
-      <th scope="col">3</th>
+      <th scope="col">4</th>
       <td>Joshua Ivan Andree Mendez Vasquez</td>
        <td>9490-22-4032</td>
        <td>100%</td>
