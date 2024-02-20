@@ -1,5 +1,5 @@
 <table class="table caption-top">
-  <caption>List of users</caption>
+  <caption>Lista de Integrantes</caption>
   <thead>
     <tr>
       <th scope="col">No.</th>
