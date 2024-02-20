@@ -13,21 +13,24 @@
       <th scope="col-mb">1</th>
       <td>Abner Salvador Cancinos</td>
        <td>9490-22-2101</td>
-      <td>Alder Isaac Solis De Leon</td>
-      <td>Joshua Ivan Andree Mendez Vasquez</td>
+      <td>100%</td>
     </tr>
     <tr>
       <th scope="col">2</th>
       <td>Cristian Sebastian Rodas</td>
       <td>9490-22-523</td>
-      <td>9490-22-227</td>
-       <td>9490-22-4032</td>
+       <td>100%</td>    
     </tr>
      <tr>
       <th scope="col">3</th>
+      <td>Alder Isaac Solis De Leon</td>
+      <td>9490-22-227</td>
       <td>100%</td>
-      <td>100%</td>
-      <td>100%</td>
+    </tr>
+     <tr>
+      <th scope="col">3</th>
+      <td>Joshua Ivan Andree Mendez Vasquez</td>
+       <td>9490-22-4032</td>
        <td>100%</td>
     </tr>
   </tbody>
