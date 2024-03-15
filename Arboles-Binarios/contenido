@@ -1,1 +1,0 @@
-mplementar un programa interactivo en Python que permita a los usuarios crear, manipular y visualizar un Árbol Binario de Búsqueda (ABB). El programa debe proporcionar funciones para insertar, buscar, eliminar y cargar datos desde un archivo .txt. Además, debe generar simultáneamente la representación en Graphviz del árbol.
